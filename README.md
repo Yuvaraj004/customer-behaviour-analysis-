@@ -25,7 +25,7 @@ The project simulates a real-world analytics workflow commonly followed by Data 
 The project follows the workflow shown below.
 
 <p align="center">
-  <img src="workflow.png" width="900">
+  <img src="images\workflow.png" width="900">
 </p>
 
 ---
@@ -35,7 +35,7 @@ The project follows the workflow shown below.
 The final interactive dashboard created in Power BI.
 
 <p align="center">
-  <img src="dashboard.png" width="1000">
+  <img src="images\dashboard.png" width="1000">
 </p>
 
 ---
