@@ -35,7 +35,7 @@ The project follows the workflow shown below.
 The final interactive dashboard created in Power BI.
 
 <p align="center">
-  <img src="images\dashboard.png" width="1000">
+  <img src="images\dashboard.PNG" width="1000">
 </p>
 
 ---
